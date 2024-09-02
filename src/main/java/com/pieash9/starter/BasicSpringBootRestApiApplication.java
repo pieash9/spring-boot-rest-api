@@ -12,8 +12,6 @@ public class BasicSpringBootRestApiApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BasicSpringBootRestApiApplication.class, args);
-
-
 	}
 
 	@Override
